@@ -38,6 +38,7 @@ A Bash-based menu-driven toolkit for common Linux system administration tasks.
 ## Installation
 
 Clone or copy the script to your system and make it executable:
+NOTE: ALWAYS CHECK ANY SCRIPT YOU RUN IN THE WEB (;
 
 ```bash
 git clone https://github.com/oswz/sysadmin-tools.git
